@@ -50,6 +50,7 @@ button {
     margin-left: 18px;
     margin-top: 12px;
 }
+button a {text-decoration: none;color: red;font-weight: 700;}
 small {
     display: block;
     padding-top: 46px;
@@ -192,4 +193,21 @@ section#favourite-hobby h2 {
     text-align: center;
     font-size: 42px;
     font-weight: 900;
+}
+.hard-work {
+    text-align: center;
+    background: #0b0d17;
+}
+
+.hard-work h1 {
+    color: white;
+    padding-top: 39px;
+}
+
+.hard-work p {
+    color: #999;
+    padding-bottom: 27px;
+}
+.color3{
+    color: #ff5959;
 }
