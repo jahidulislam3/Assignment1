@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Luxurious+Roman&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: 'Merriweather', serif;
+
+}
+#topber{
+    display: flex;
+    padding-bottom: 100px;
+}
+.color{
+    color: #0071f4f0;
+}
+.focused{
+    width: 50%;
+    padding-left: 113px;
+    padding-top: 72px;
+
+}
+.focused img{
+    width: 60%;
+}
+.focused h1 {
+    font-weight: 900;
+    font-size: 63px;
+    border-left: 4px solid blueviolet;
+    padding-left: 15px;
+}
+.focused p {
+    width: 400px;
+    padding-left: 20px;
+    line-height: 2;
+    font-size: 15px;
+    font-weight: 700;
+    color: #434343;
+}
+button {
+    border-radius: 5px;
+    border: none;
+    background-image: linear-gradient(#07070785, black);
+    color: white;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    box-shadow: 4px 7px 4px 2px black;
+    margin-left: 18px;
+    margin-top: 12px;
+}
+small {
+    display: block;
+    padding-top: 46px;
+    padding-left: 17px;
+}
