@@ -62,6 +62,9 @@ small {
 .mission-wrapper img{
     width: 40%;
 }
+.mission-wrapper p {
+    line-height: 1.5;
+}
 #my-mission {
     padding: 0px 0px 100px 148px;
 }
@@ -80,7 +83,7 @@ small {
     font-weight: 800;
 }
 
-section#my-mission h1 {
+#my-mission h1 {
     font-size: 53px;
     padding-left: 312px;
 }
@@ -113,18 +116,47 @@ section#my-mission h1 {
 }
 .develop-picture {
     width: 90%;
-    padding-left: 43px;
+    padding-left: 70px;
 }
 .develop-content h1 {
     font-size: 37px;
     font-weight: 900;
+    padding-left: 10px;
 }
 .develop-content p {
     width: 80%;
     padding-bottom: 3px;
     line-height: 31px;
+    padding-left: 13px;
 }
 
 .develop-content {
     padding-left: 113px;
+}
+.Communitywrapper{
+    display: flex;
+    width: 100%;
+}
+.develop-content1{
+    width: 50%;
+}
+.develop-content1 img{
+    width: 64%;
+}
+#Global-Community {
+    padding: 0px 0px 100px 140px;
+}
+
+.develop-content1 h1 {
+    font-weight: 900;
+    font-size: 35px;
+    padding-left: 14px;
+    line-height: 1.5;
+}
+
+.develop-content1 p {
+    width: 91%;
+    padding-left: 21px;
+    line-height: 2;
+    text-align: justify;
 }
