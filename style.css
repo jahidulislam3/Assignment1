@@ -22,13 +22,14 @@ body{
 
 }
 .focused img{
-    width: 60%;
+    width: 70%;
 }
 .focused h1 {
     font-weight: 900;
     font-size: 63px;
     border-left: 4px solid blueviolet;
     padding-left: 15px;
+    border-radius: 4px;
 }
 .focused p {
     width: 400px;
@@ -62,7 +63,7 @@ small {
     width: 40%;
 }
 #my-mission {
-    padding: 0px 0px 50px 148px;
+    padding: 0px 0px 100px 148px;
 }
 .mission {
     background: rgba(247, 9, 215, 0.096);
@@ -91,9 +92,39 @@ section#my-mission h1 {
     margin-left: 30px;
     border-radius: 23px;
 }
-.coals{
+.goals{
     background: rgba(173, 175, 47, 0.205);
     padding: 34px 34px 50px 34px;
     margin-left: 30px;
     border-radius: 23px;
+}
+#develop {
+    padding-bottom: 100px;
+}
+.develop-wrapper{
+    display: flex;
+    width: 100%;
+}
+.develop-wrapper img{
+    width: 82%;
+    padding-left: 116px;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.develop-picture {
+    width: 90%;
+    padding-left: 43px;
+}
+.develop-content h1 {
+    font-size: 37px;
+    font-weight: 900;
+}
+.develop-content p {
+    width: 80%;
+    padding-bottom: 3px;
+    line-height: 31px;
+}
+
+.develop-content {
+    padding-left: 113px;
 }
