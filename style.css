@@ -144,7 +144,7 @@ small {
     width: 64%;
 }
 #Global-Community {
-    padding: 0px 0px 100px 140px;
+    padding: 0px 0px 61px 140px;
 }
 
 .develop-content1 h1 {
@@ -159,4 +159,37 @@ small {
     padding-left: 21px;
     line-height: 2;
     text-align: justify;
+}
+.favourite-hobby-wrapper{
+    display: flex;
+    padding: 22px 112px 100px 213px;
+}
+.cricket{
+    width: 50%;
+}
+.cricket img{
+    width: 80%;
+    border-radius: 37px;
+    box-shadow: 19px 13px 8px #79a578;
+}
+span.color2 {
+    padding: 0px 0px 0px 69px;
+    color: #4ef404;
+}
+
+.cricket h1 {
+    padding: 26px 0px 0px 0px;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 2;
+}
+
+.cricket p {
+    line-height: 1.5;
+    width: 88%;
+}
+section#favourite-hobby h2 {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 900;
 }
