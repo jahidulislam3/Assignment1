@@ -10,7 +10,7 @@ body{
 }
 #topber{
     display: flex;
-    padding-bottom: 100px;
+    padding-bottom: 52px;
 }
 .color{
     color: #0071f4f0;
@@ -53,4 +53,47 @@ small {
     display: block;
     padding-top: 46px;
     padding-left: 17px;
+}
+.mission-wrapper{
+    display: flex;
+    width: 90%;
+}
+.mission-wrapper img{
+    width: 40%;
+}
+#my-mission {
+    padding: 0px 0px 50px 148px;
+}
+.mission {
+    background: rgba(247, 9, 215, 0.096);
+    padding: 34px 34px 50px 34px;
+    margin-left: 30px;
+    border-radius: 23px;
+}
+
+.mission p {
+    color: #313030;
+}
+
+.mission h3 {
+    font-weight: 800;
+}
+
+section#my-mission h1 {
+    font-size: 53px;
+    padding-left: 312px;
+}
+
+
+.vission{
+    background: rgba(9, 241, 48, 0.137);
+    padding: 34px 34px 50px 34px;
+    margin-left: 30px;
+    border-radius: 23px;
+}
+.coals{
+    background: rgba(173, 175, 47, 0.205);
+    padding: 34px 34px 50px 34px;
+    margin-left: 30px;
+    border-radius: 23px;
 }
